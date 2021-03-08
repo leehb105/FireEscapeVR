@@ -1,0 +1,8 @@
+.vs/
+Library/
+*.csproj
+Logs/
+obj/
+Temp/
+*.sln
+officebuidling.fbx
