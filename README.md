@@ -4,7 +4,7 @@
 >>*'가상현실 공간의 화재 현장에 들어가    
 >>소방청 행동요령에 따른 교율을 체험 할 수 있다.'*   
 
-<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/main.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="image"></img>  
+<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/main.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>  
 
 ## 게임 개요
 
@@ -12,7 +12,7 @@
 - Device - HTC사 Vive Pro   
 
 ### 조작법
-<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/controller.png" width="80%" height="60%" title="px(픽셀) 크기 설정" alt="image"></img>
+<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/controller.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="image"></img>
 
 ### 스틸컷
 <img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/fire1.gif" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image"></img> 
@@ -31,4 +31,4 @@
 - 구현된 점: 디자인패턴 적용(Singleton)  
     
 ### 영상 
-[<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/main.png" width="30%" height="20%" title="px(픽셀) 크기 설정" alt="image">]( )   
+[<img src="https://github.com/leehb105/FireEscapeVR/blob/main/Assets/Gitimages/main.png" width="50%" height="40%" title="px(픽셀) 크기 설정" alt="image">]( )   
